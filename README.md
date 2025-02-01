@@ -2,8 +2,8 @@
 
 ## Description
 This project is a machine learning model that predicts house prices based on various features
-such as living space, number of bedrooms, and more. The model used in this project is the ** Gradient Boosting 
-Regressor **, achieving an R^2 score of 0.853.
+such as living space, number of bedrooms, and more. The model used in this project is the **Gradient Boosting 
+Regressor**, achieving an R^2 score of 0.853.
 
 ## Dataset
 - The dataset consists of 39,981 house listing with various attributes
